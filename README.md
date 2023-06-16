@@ -2,11 +2,12 @@
 - 👀 I’m interested in 
     Java,
     C++,
+    Rust,
     Linux,
     Game Development,
     and Application Development
 - 🌱 I’m currently learning
-    C++
+    C++, Rust,
     and SQL
 <!---
 - 💞️ I’m looking to collaborate on ...
